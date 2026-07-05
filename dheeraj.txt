@@ -1,0 +1,4 @@
+name:dheeraj
+candidate_id:42C0G4OV0
+meeting_id : http://+GET9WH8W24IV2KDH1QYXFPOBS
+canditade_email : dheerajgour12@gmail.comC:\Users\LENOVO\AppData\Local\Programs\Python\Python314\python.exe c:/Users/LENOVO/OneDrive/Desktop/batch_118/detial_generator.py
